@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Jain Traders</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Jain Traders</h1>
+  <p>Motors & Agricultural Machinery Parts</p>
+</header>
+
+<section class="hero">
+  <h2>Trusted Agricultural & Motor Parts Supplier</h2>
+  <p>High quality machinery parts, motors, pumps and farming equipment.</p>
+  <a href="https://wa.me/917069343320" class="btn">Contact on WhatsApp</a>
+</section>
+
+<section class="products">
+  <h2>Our Products</h2>
+
+  <div class="card">
+    <h3>Electric Motors</h3>
+    <p>Premium industrial and agricultural motors.</p>
+  </div>
+
+  <div class="card">
+    <h3>Water Pumps</h3>
+    <p>Reliable pumps and irrigation systems.</p>
+  </div>
+
+  <div class="card">
+    <h3>Agricultural Parts</h3>
+    <p>Machine spare parts and farming tools.</p>
+  </div>
+</section>
+
+<section class="contact">
+  <h2>Contact Us</h2>
+  <p>📍 21, Gaushala Shopping Centre, Dahod</p>
+  <p>📞 +91 70693 43320</p>
+</section>
+
+<footer>
+  <p>© 2026 Jain Traders</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
